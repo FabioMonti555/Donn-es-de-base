@@ -59,7 +59,7 @@
 <body>
   <div class="card">
     <h1>Audio-Player</h1>
-    <p>Deine Geschichte zum Anhören</p>
+    <p>Deine données de base</p>
     <audio id="player" controls preload="metadata">
       <source src="audio.mp3" type="audio/mpeg" />
       Dein Browser unterstützt den Audio‑Player leider nicht.
